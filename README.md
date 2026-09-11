@@ -22,6 +22,7 @@ GitHub Pages URL:
 
 - Prism Rows
 - Pantomime Paradox
+- Showstreak
 
 Static site: HTML + CSS only.
 
